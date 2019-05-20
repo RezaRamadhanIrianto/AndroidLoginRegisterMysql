@@ -1,3 +1,3 @@
 # AndroidLoginRegister
-# AndroidLoginRegisterMysql
-# AndroidLoginRegisterMysql
+CopyRight @2019 By RezaRamadhanIrianto
+
